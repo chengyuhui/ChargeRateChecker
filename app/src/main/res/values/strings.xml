@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Charge Rate Checker</string>
+    <string name="charge_rate">Charge Rate</string>
+</resources>
